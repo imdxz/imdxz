@@ -2,7 +2,7 @@
 
 ### About Me
 
-- 🔭 I’m currently working on High Performance Computing
+- 🔭 High Performance Computing
 - ❤️‍🔥 I love Grinding FLOPS from GPU
 
 <br/>  
