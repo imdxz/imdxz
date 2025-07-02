@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+### About Me
+
+- 🔭 I’m currently working on High Performance Computing
+- ❤️‍🔥 I love Grinding FLOPS from GPU
+
+<br/>  
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cache-roaster&hide_border=trueb&layout=compact&hide=jupyter%20notebook,html,css,vim%20script&show_icons=true&count_private=true" align="left" />  
+</div>
+
+
 <!--
 **cache-roaster/cache-roaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
