@@ -4,6 +4,7 @@
 
 - 🔭 High Performance Computing
 - ❤️‍🔥 Grinding FLOPS from GPU
+- 📝 My [blog](dxzzz.org)
 
 <br/>  
 
